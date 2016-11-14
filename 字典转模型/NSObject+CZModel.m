@@ -8,7 +8,7 @@
 
 #import "NSObject+CZModel.h"
 #import <objc/runtime.h>
-#import "Data.h"
+
 
 @implementation NSObject (CZModel)
 
